@@ -14,7 +14,7 @@
     "secondaryLinks": [
         {
             "label": "Conductores",
-            "altText": "Sign up",
+            "altText": "Conductores",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
