@@ -23,7 +23,7 @@
             "showIcon": false
         },
         {
-            "label": "Log in",
+            "label": "peruserver",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
