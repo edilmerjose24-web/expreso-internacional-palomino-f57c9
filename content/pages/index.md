@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Expreso Internacional Palomino
-      color: text-primary
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
