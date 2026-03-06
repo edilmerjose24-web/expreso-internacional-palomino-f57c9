@@ -24,7 +24,7 @@
         },
         {
             "label": "peruserver",
-            "url": "/",
+            "url": "https://peruserver.de/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
